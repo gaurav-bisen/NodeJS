@@ -1,0 +1,2 @@
+Exercises: Build a script that reads and writes files, manipulates file paths, and retrieves system info.
+ append text with async append 
